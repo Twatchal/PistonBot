@@ -3,10 +3,10 @@ interface ServerConfigs {
 }
 
 interface ServerConfig {
-  version: string
-  host: string
-  port: number
-  bridge: string
+  version: '1.12.2',
+  host: 'creativo4.aternos.me',
+  port: 26580,
+  bridge: '835406354080333825'
 }
 
 export const serverConfigs: ServerConfigs = {
