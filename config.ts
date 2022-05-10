@@ -29,9 +29,9 @@ export const serverConfigs: ServerConfigs = {
     bridge: '835406354080333825'
   },
   localhost: {
-    version: '1.16.5',
-    host: 'localhost',
-    port: 25565,
-    bridge: '834858576974708736'
+    version: '1.12.2',
+    host: 'creativo4.aternos.me',
+    port: 26580,
+    bridge: '835406354080333825'
   }
 }
